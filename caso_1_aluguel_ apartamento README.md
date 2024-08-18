@@ -1,4 +1,4 @@
-# Filtro de Aluguel de Apartamwnto
+# Filtro de Aluguel de Apartamento
 # Criar um filtro que ajude o cliente de uma imobiliaria e encontrar o melhor imovel de acordo com suas caracteristicas.
 
 Criterios da escolha:
